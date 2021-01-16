@@ -1,1 +1,1 @@
-# seq2Seq_chatBot
+# Seq2Seq_ChatBot
