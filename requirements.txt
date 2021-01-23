@@ -1,3 +1,4 @@
+tensorflow~=2.4.0
+numpy~=1.19.5
+pathlib~=1.0.1
 Keras~=2.4.3
-numpy~=1.18.5
-nlpia~=0.5.2
